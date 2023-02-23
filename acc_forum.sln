@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum_DAL", "Forum_DAL\Forum_DAL.csproj", "{BFBA95FD-55D1-4D8D-9839-2CA537B77170}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum_API", "Forum_API\Forum_API.csproj", "{2E3AADE6-0A01-4336-BD7A-8C4195A2931B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBA95FD-55D1-4D8D-9839-2CA537B77170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBA95FD-55D1-4D8D-9839-2CA537B77170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBA95FD-55D1-4D8D-9839-2CA537B77170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBA95FD-55D1-4D8D-9839-2CA537B77170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3AADE6-0A01-4336-BD7A-8C4195A2931B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3AADE6-0A01-4336-BD7A-8C4195A2931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3AADE6-0A01-4336-BD7A-8C4195A2931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3AADE6-0A01-4336-BD7A-8C4195A2931B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FA4644-F8E8-4AC9-823E-4F8921275A4C}
+	EndGlobalSection
+EndGlobal
